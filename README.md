@@ -4,6 +4,9 @@ RPG Core Mechanics with Gunplay
 
 A first-person shooter combat prototype built from scratch in Unity 6 using C#.
 
+## How to Open the Code File
+-FPSCombat Folder -> Assets Folder -> Enemy Folder for Enemy AI scripts and Player Stuff Folder for Player scripts
+
 ## Features
 - First person movement (walk, run)
 - Mouse look with camera control
