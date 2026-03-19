@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|d:\\college work\\personal project\\fpscombat\\fpscombat\\assets\\player stuff\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|solutionrelative:assets\\player stuff\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|d:\\college work\\personal project\\fpscombat\\fpscombat\\assets\\player stuff\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|solutionrelative:assets\\player stuff\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|d:\\college work\\personal project\\fpscombat\\fpscombat\\assets\\player stuff\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|solutionrelative:assets\\player stuff\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|d:\\college work\\personal project\\fpscombat\\fpscombat\\assets\\player stuff\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9331084-57CF-362E-6BCB-36E9364031DA}|Assembly-CSharp.csproj|solutionrelative:assets\\player stuff\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player Stuff\\PlayerMovement.cs",
+              "ToolTip": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Player Stuff\\PlayerMovement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:15:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Player Stuff\\UIManager.cs",
+              "ToolTip": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Player Stuff\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:12:42.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerShoot.cs",
+              "DocumentMoniker": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Player Stuff\\PlayerShoot.cs",
+              "ToolTip": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerShoot.cs",
+              "RelativeToolTip": "Assets\\Player Stuff\\PlayerShoot.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:03:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Player Stuff\\PlayerStats.cs",
+              "ToolTip": "D:\\College Work\\personal project\\FPSCombat\\FPSCombat\\Assets\\Player Stuff\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Player Stuff\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:52:19.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
